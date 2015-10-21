@@ -1,0 +1,23 @@
+name: zerok
+favicon: null
+layout_spectrum: 0.010457784868776798
+typography_spectrum: 0.35187686746940017
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2915551986079663
+  lightness: 0.917258488945663
+  saturation: 0.6422170982696116
+  rhythmicContrast: 0.057618013583123684
+purpose: []
