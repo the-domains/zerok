@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[zerok]]></title>
-        <description><![CDATA[zerok]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[zero degree kelvin]]></title>
+        <description><![CDATA[zero degree kelvin]]></description>
+        <link>https://thegrid.ai/zerok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 22:50:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 21 Oct 2015 23:04:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zerok/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>we are what we believe we are.</p>]]></description>
+            <link>https://thegrid.ai/zerok/bd4049c3-8f01-4b13-85ea-2d741e6069ec/index.html</link>
+            <guid isPermaLink="false">bd4049c3-8f01-4b13-85ea-2d741e6069ec</guid>
+            <pubDate>Wed, 21 Oct 2015 23:03:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>hello again.</p>]]></description>
+            <link>https://thegrid.ai/zerok/6de7dd3f-57a0-4609-bd04-44c68d099d2f/index.html</link>
+            <guid isPermaLink="false">6de7dd3f-57a0-4609-bd04-44c68d099d2f</guid>
+            <pubDate>Wed, 21 Oct 2015 22:57:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>hello world.</p>]]></description>
-            <link>undefinedf78b5435-0f4e-49dd-96a0-700fcc61d61a/index.html</link>
+            <link>https://thegrid.ai/zerok/f78b5435-0f4e-49dd-96a0-700fcc61d61a/index.html</link>
             <guid isPermaLink="false">f78b5435-0f4e-49dd-96a0-700fcc61d61a</guid>
             <pubDate>Wed, 21 Oct 2015 22:50:05 GMT</pubDate>
         </item>
