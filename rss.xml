@@ -4,7 +4,7 @@
         <description><![CDATA[zero degree kelvin]]></description>
         <link>https://thegrid.ai/zerok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 07:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2015 07:25:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/zerok/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Adele: Inside Her Private Life and Triumphant Return]]></title>
@@ -40,13 +40,6 @@
             <link>http://www.ozy.com/flashback/how-englands-worst-king-spawned-capitalism/65014</link>
             <guid isPermaLink="false">8cbd4b41-8de0-48db-a38d-3732c97a404a</guid>
             <pubDate>Tue, 17 Nov 2015 07:07:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>hello world.</p>]]></description>
-            <link>https://thegrid.ai/zerok/f78b5435-0f4e-49dd-96a0-700fcc61d61a/index.html</link>
-            <guid isPermaLink="false">f78b5435-0f4e-49dd-96a0-700fcc61d61a</guid>
-            <pubDate>Wed, 21 Oct 2015 22:50:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
