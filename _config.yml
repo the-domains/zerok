@@ -1,7 +1,7 @@
 name: zerok
 favicon: null
 layout_spectrum: 0.25591
-typography_spectrum: 0.5
+typography_spectrum: 0.74916
 title: zero degree kelvin
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#c0001f'
   brandStrength: 0.5
   lightness: 0.917258488945663
-  saturation: 0.625
+  saturation: 0.375
   rhythmicContrast: 0.057618013583123684
 purpose: []
