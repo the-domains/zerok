@@ -4,8 +4,15 @@
         <description><![CDATA[zero degree kelvin]]></description>
         <link>https://thegrid.ai/zerok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 06:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2015 00:27:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/zerok/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Serial Swatter]]></title>
+            <description><![CDATA[<article><h1>The Serial Swatter</h1><p>Early one weekend morning in January 2014, Janet was sleeping fitfully in her parents' home in Toronto. A junior studying elementary education at a nearby college, she had gone home for the weekend in a state of nervous collapse. For months, someone going by the name ''Obnoxious'' had been harassing her online.</p><img src="http://static01.nyt.com/images/2015/11/29/magazine/29swatting1/29swatting1-facebookJumbo-v2.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2015/11/29/magazine/the-serial-swatter.html?utm_source=nextdraft&amp;utm_medium=email&amp;_r=0</link>
+            <guid isPermaLink="false">d5412eb9-1524-47a1-8cdc-f22aece23351</guid>
+            <pubDate>Thu, 26 Nov 2015 00:26:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Solve the Hardest Logic Puzzle Ever - Issue 30: Identity - Nautilus]]></title>
             <description><![CDATA[<article><h1>How to Solve the Hardest Logic Puzzle Ever - Issue 30: Identity - Nautilus</h1><p>While a doctoral student at Princeton University in 1957, studying under a founder of theoretical computer science, Raymond Smullyan would occasionally visit New York City. On one of these visits, he met a "very charming lady musician" and, on their first date, Smullyan, an incorrigible flirt, proceeded very logically-and sneakily.</p><img src="http://static.nautil.us/7532_aeecc5a9c646444f00978ed43e747a96.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.pewforum.org/2015/11/03/u-s-public-becoming-less-religious/</link>
             <guid isPermaLink="false">d28bd263-2fa8-4145-96b9-fea036af70c5</guid>
             <pubDate>Tue, 17 Nov 2015 07:09:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Voted the Worst King in History, It's No Surprise He Doesn't Get Credit for His Greatest Achievement]]></title>
-            <description><![CDATA[<article><h1>Voted the Worst King in History, It's No Surprise He Doesn't Get Credit for His Greatest Achievement</h1><p>"What's that smell?" I asked my dad as we approached Rievaulx Abbey on a visit to Yorkshire, England. "It's wild garlic," he said - which I'd later learn was a surprising crop to find so far north, though the story behind the monastery would prove even more surprising.</p><img src="http://pictures.ozy.com/pictures/1500xany/7/5/5/84755_GettyImages-151324505.jpg"></article>]]></description>
-            <link>http://www.ozy.com/flashback/how-englands-worst-king-spawned-capitalism/65014</link>
-            <guid isPermaLink="false">8cbd4b41-8de0-48db-a38d-3732c97a404a</guid>
-            <pubDate>Tue, 17 Nov 2015 07:07:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
